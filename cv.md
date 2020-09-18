@@ -13,10 +13,10 @@
 Хотелось бы попробовать себя в реальных, боевых проектах и получить соответствующий опыт для дальнейшей работы.
 
 <h4 align="center">Профессиональные навыки:</h4>
-<p align="center"><img src="https://sun9-73.userapi.com/o3Ei6lOM_WTAas90-Rq4D8omowAWzM9hBupVGw/7XXUN6gTOTA.jpg" alt="Профессиональные навыки" width="476" height="356" /></p>
+<p align="center"><img src="https://sun9-73.userapi.com/o3Ei6lOM_WTAas90-Rq4D8omowAWzM9hBupVGw/7XXUN6gTOTA.jpg" alt="Профессиональные навыки" /></p>
 
 <h4 align="center">Персональные навыки:</h4>
-<p align="center"><img src="https://sun9-13.userapi.com/ZjIPrHx0rMFo-L5NU_LQYl290govGELTZwyrYw/AZgbqW9Iec4.jpg" alt="Персональные навыки" width="476" height="174" /></p>
+<p align="center"><img src="https://sun9-13.userapi.com/ZjIPrHx0rMFo-L5NU_LQYl290govGELTZwyrYw/AZgbqW9Iec4.jpg" alt="Персональные навыки" /></p>
 
 #### Примеры кода:
 soon 👀
@@ -42,4 +42,4 @@ PostgreSQL для управления базой данных. Проекты �
 
 <h4 align="center">Английский язык:</h4>
 <p align="center">Дата прохождения теста: 10.09.2020</p>
-<p align="center"><img src="https://sun9-55.userapi.com/AG7Gu_z9IMezFqzFFFQ7eJ5ZLCE03E_oznN4Gw/1ivYOZgNtN4.jpg" alt="Уровень Английского" width="401" height="381" /></p>
+<p align="center"><img src="https://sun9-55.userapi.com/AG7Gu_z9IMezFqzFFFQ7eJ5ZLCE03E_oznN4Gw/1ivYOZgNtN4.jpg" alt="Уровень Английского" /></p>
