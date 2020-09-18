@@ -13,13 +13,13 @@
 Хотелось бы попробовать себя в реальных, боевых проектах и получить соответствующий опыт для дальнейшей работы.
 
 <h4 align="center">Профессиональные навыки:</h4>
-<p align="center"><img src="https://sun1-84.userapi.com/oKknjuLKun9TzUtW0cPHMoBrhi3Yl9R0noSP4g/uxNuLvEktWg.jpg" alt="Профессиональные навыки" width="401" height="403" /></p>
+<p align="center"><img src="https://sun9-73.userapi.com/o3Ei6lOM_WTAas90-Rq4D8omowAWzM9hBupVGw/7XXUN6gTOTA.jpg" alt="Профессиональные навыки" width="476" height="356" /></p>
 
 <h4 align="center">Персональные навыки:</h4>
-<p align="center"><img src="https://sun9-3.userapi.com/dFMFCzDCOnnxT7F1KdiWpSgHWj1W62e-GC1eNw/eqrcdd2kfbU.jpg" alt="Персональные навыки" width="301" height="245" /></p>
+<p align="center"><img src="https://sun9-13.userapi.com/ZjIPrHx0rMFo-L5NU_LQYl290govGELTZwyrYw/AZgbqW9Iec4.jpg" alt="Персональные навыки" width="476" height="174" /></p>
 
 #### Примеры кода:
-soon :eyes:
+soon 👀
 
 #### Опыт работы:
 - Проходила обучение в университете и на курсах. Имею опыт в разработке веб-приложений с использованием фреймворка Flask для бэкенда, вёрстка - HTML5 и CSS-фреймворк Materialize, а также, 
