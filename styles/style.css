@@ -1,0 +1,85 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+body {
+    line-height: 1.625em;
+    width: 800px;
+    height: auto;
+    margin: 25px auto;
+    font-family: 'Courier Prime', monospace;
+}
+
+h1,
+h4,
+h3,
+h5,
+h6 {
+    text-transform: uppercase;
+    letter-spacing: .0625em;
+}
+
+.header,
+.main { display: flex; }
+
+.header__left,
+.main__skills-info {
+    background-image: linear-gradient(to top, #ebc0fd 0%, #d9ded8 100%);
+    width: 300px;
+    padding: 0 20px 20px;
+    text-align: center;
+}
+
+.header__left h3,
+.header__about-info h3 { padding: 20px 0 20px; }
+
+.header__left h6,
+.footer h6 { padding: 20px 0 0; }
+
+.header__left img {
+    width: 280px;
+    border-radius: 3px;
+    padding: 20px 20px 20px 0;
+}
+
+.hr-dashed-gradient {
+    padding: 0;
+    height: 10px;
+    border: none;
+    color: #8091e5;
+    background-image: linear-gradient(90deg, #6b91ff, #b1d8f0 33.33%, transparent 33.33%, transparent 100%);
+    background-size: 3px 100%;
+}
+
+.header__about-info,
+.main__experience-info { width: calc(100% - 300px); }
+
+.header__about-info,
+.main__experience-info {
+    background: #e8edef;
+    width: 500px;
+    padding: 20px 20px 20px;
+    letter-spacing: .0625em;
+
+}
+
+.header__about-info h1,
+.header h4 {
+    padding: 20px 0 20px 0;
+    text-align: center;
+    letter-spacing: .0625em;
+}
+
+.main__professional-skills,
+.main__personal-skills,
+.main__professional-skills h3,
+.main__education h3,
+.main__english-level { padding: 20px 0 0; }
+
+.main__work-experience div,
+.main__education div { padding: 20px 0 20px 0; }
+
+
